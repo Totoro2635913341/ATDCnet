@@ -1,7 +1,7 @@
 # Transmission and Color-guided Network for Underwater Image Enhancement (ICME 2023)([Paper](https://arxiv.org/pdf/2308.04892.pdf))
 The Pytorch Implementation of ''Transmission and Color-guided Network for Underwater Image Enhancement''. 
 
-<div align=center><img src="img/ATDCnet.png" height = "60%" width = "60%"/></div>
+<div align=center><img src="img/ATDCnet.png" height = "90%" width = "90%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 20.04.1, Python 3.8, Pytorch 1.11.0 and one NVIDIA RTX A6000 GPU. 
