@@ -19,7 +19,7 @@ python test.py
 ```
 ### Training
 
-To train the model, you need to prepare our [dataset](https://drive.google.com/file/d/1YXdyNT9ac6CCpQTNKP7SnKtlRyugauvh/view?usp=sharing).
+To train the model, you need to prepare our [dataset](https://drive.google.com/drive/folders/1kGaK7xq-xkZlKEn8VZQwVXbYWjYgiKtm?usp=drive_link).
 
 Check the dataset path in train.py, and then run:
 ```
